@@ -1,7 +1,7 @@
 [[Below: framework of 'this' Johannes Mueller article, to aid my repeat attempt](https://www.datacamp.com/community/tutorials/blockchain-r)]
 
 # Understanding Blockchains by Coding One in R
-######Implement a small blockchain in R and learn more about what a blockchain looks like and some of the core concepts behind it!
+###### Implement a small blockchain in R and learn more about what a blockchain looks like and some of the core concepts behind it!
 
 Last week I came across this article on R bloggers, where BigData Doc builds a blockchain entirely in R. A blockchain built in R might not be the most efficient and practical thing in the world but it is a great way to understand the programming and crypto principles behind it. I wanted to understand it as well and that's why I implemented a smaller version of the blockchain in R: "If you can code it, you certainly understand it".
 
